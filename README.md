@@ -1,6 +1,12 @@
 # 단 두 장의 문서로 데이터 분석과 시각화 뽀개기
 
+판다스 치트싯
 https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+데이터사이언스 치트싯
+https://web.itu.edu.tr/iguzel/files/Python_Cheat_Sheets.pdf
+
+https://blog.finxter.com/collection-10-best-numpy-cheat-sheets-every-python-coder-must-own/
 
 <a href="https://bit.ly/inflearn-pandas-tutorial" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
 
